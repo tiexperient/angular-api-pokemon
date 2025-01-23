@@ -1,0 +1,30 @@
+
+    <p>digite o nome do seu Pokémon favorito:</p>
+    <input 
+        type="text" 
+        class="pokemon-search-input" 
+        placeholder="Buscar Pokémon..." 
+        (input)="getPokemon($any($event.target).value)"
+    >
+    
+    <div class="box">
+      <div class="border-line"></div>
+      <div class="master">
+
+        <h2>{{ pokemon.name | titlecase }}</h2>
+
+        <div class="card__body">
+            <img [src]="pokemon.sprites.front_default" height="150" alt="pokemon" srcset="">
+        </div>
+
+        <div class="card__stats">
+            <span
+                class="card__stats__type"
+                *ngFor="let t of pokemon.types"
+            >
+                {{ t.type.name | uppercase}}
+            </span>
+        </div>
+        
+    </div>
+    </div>
