@@ -7,12 +7,12 @@ Bem-vindo(a) ao **PokéAPI App**! 🎉 Um projeto divertido e interativo criado 
 
 Este projeto foi desenvolvido utilizando:
 
-✅ **Angular 14.0.0**
-✅ **TypeScript**
-✅ **HTML & CSS**
-✅ **Services no Angular**
+✅ **Angular 14.0.0**<br>
+✅ **TypeScript**<br>
+✅ **HTML & CSS**<br>
+✅ **Services no Angular**<br>
 ✅ **PokéAPI (https://pokeapi.co/)**
-<br>
+<br><br>
 
 ## 🚀 Como Funciona?
 
