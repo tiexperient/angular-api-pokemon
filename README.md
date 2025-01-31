@@ -9,8 +9,8 @@ Este projeto foi desenvolvido utilizando:
 
 ✅ **Angular 14.0.0**<br>
 ✅ **TypeScript**<br>
-✅ **HTML & CSS**<br>
 ✅ **Services no Angular**<br>
+✅ **HTML & CSS**<br>
 ✅ **PokéAPI (https://pokeapi.co/)**
 <br><br>
 
