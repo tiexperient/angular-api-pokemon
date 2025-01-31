@@ -25,7 +25,7 @@ Este projeto foi desenvolvido utilizando:
 
 ## 🌍 Link para Acesso
 
-🌍 **O projeto já está disponível online! Acesse agora:** [🔗 PokéAPI App](https://tiexperient-blog.netlify.app/)  
+🌍 **O projeto já está disponível online! Acesse agora:** [🔗 PokéAPI App](https://tiexperient-pokemon.netlify.app/)  
 👩🏼‍💻 **Meu Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
 <br>
 
