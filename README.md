@@ -1,7 +1,7 @@
 # 🎮 PokéAPI App <br>Encontre seu Pokémon Favorito! 🔥💧🐉⚡🪨❄️🌱
 
 Bem-vindo(a) ao **PokéAPI App**! 🎉 Um projeto divertido e interativo criado com Angular para os amantes de Pokémon! Aqui, você pode digitar o nome do seu Pokémon favorito e visualizar instantaneamente sua imagem e seu tipo. Tudo isso exibido em um card estilizado! 🃏✨  
-
+<br>
 
 ## 🛠️ Tecnologias Utilizadas
 
