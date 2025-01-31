@@ -1,27 +1,32 @@
-# Services
+# 🎮 PokéAPI App - Encontre seu Pokémon Favorito! 🔥💧🐉⚡🪨❄️🌱
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
+Bem-vindo(a) ao **PokéAPI App**! 🎉 Um projeto divertido e interativo criado com Angular para os amantes de Pokémon! Aqui, você pode digitar o nome do seu Pokémon favorito e visualizar instantaneamente sua imagem e seu tipo. Tudo isso exibido em um card estilizado! 🃏✨  
 
-## Development server
+## 🛠️ Tecnologias Utilizadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Este projeto foi desenvolvido utilizando:
 
-## Code scaffolding
+✅ **Angular 14.0.0**
+✅ **TypeScript**
+✅ **HTML & CSS**
+✅ **Services no Angular**
+✅ **PokéAPI (https://pokeapi.co/)**
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## 🚀 Como Funciona?
 
-## Build
+1. Digite o nome de um Pokémon no campo de busca.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. O aplicativo consulta a PokéAPI e exibe a imagem e o tipo do Pokémon no card.
 
-## Running unit tests
+3. A interface é responsiva e estilizada para uma melhor experiência de usuário 
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 🌍 Link para Acesso
 
-## Running end-to-end tests
+🌍 **O projeto já está disponível online! Acesse agora:** [🔗 PokéAPI App](https://tiexperient-blog.netlify.app/)  
+👩🏼‍💻 **Meu Portfólio:** [Meu Portfólio Profissional](https://ti-experient.netlify.app/)  
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## 🏆 Contribuições e Feedbacks
 
-## Further help
+Adoraria receber sugestões, feedbacks e colaborações para melhorar este projeto! Sinta-se à vontade para abrir issues ou pull requests. 😉
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Desenvolvido com carinho por: **Célia Medeiros** 💛  
