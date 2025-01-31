@@ -12,7 +12,7 @@ Este projeto foi desenvolvido utilizando:
 ✅ **HTML & CSS**
 ✅ **Services no Angular**
 ✅ **PokéAPI (https://pokeapi.co/)**
-
+<br>
 
 ## 🚀 Como Funciona?
 
@@ -21,7 +21,7 @@ Este projeto foi desenvolvido utilizando:
 2. O aplicativo consulta a PokéAPI e exibe a imagem e o tipo do Pokémon no card.
 
 3. A interface é responsiva e estilizada para uma melhor experiência de usuário 
-
+<br>
 
 ## 🌍 Link para Acesso
 
